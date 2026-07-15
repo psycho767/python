@@ -1,0 +1,28 @@
+What does ndim tell you?
+ndim tells you how many dimensions (axes) the array has.
+
+
+2. What does shape return?
+shape returns the number of rows and columns (and more dimensions if present).
+
+3. What does size return?
+return the total elements of array
+
+4. What does dtype tell you?
+dtype tell the datatype of array
+
+5. Which is faster numpy or pythonlist?
+The main reason is that NumPy stores data in contiguous memory and performs vectorized operations, making it much more efficient for numerical computations.
+
+6. What does np stand for?
+np is an alias (or short name) for the NumPy module.
+
+7. Full form of ndarray
+N-Dimensional Array
+The "N" means it can have any number of dimensions:
+
+For example:
+
+ndim → "It tells me how many directions I need to move in the array. A list has one dimension, a table has two dimensions, and a stack of tables has three."
+shape → "It tells me how the data is organized—for example, how many rows and columns there are."
+size → "It tells me how many values are stored in total."
