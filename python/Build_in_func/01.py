@@ -24,3 +24,4 @@ num = [1,5,2,7,3,8,4]
 
 print(sorted(num))
 
+print(sorted(num,reverse = True))
